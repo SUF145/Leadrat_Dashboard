@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{AFFB9EE7-570F-4C2B-86E6-54EA7FB2C0A1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_10_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
+  <MonoDevelop.Ide.ItemProperties.DashboardLeadrat.Droid PreferredExecutionTarget="Android.nexus_10_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.DashboardLeadrat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4D96499-E922-4C88-8E09-4BD5035B50C9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/DashboardLeadrat.Core/ViewModels/DashboardViewModel.cs">
+    <Files>
+      <File FileName="src/DashboardLeadrat.UI/Pages/DashboardPage.xaml" Line="13" Column="6" />
+      <File FileName="src/DashboardLeadrat.UI/Pages/DashboardPage.xaml.cs" Line="9" Column="6" />
+      <File FileName="src/DashboardLeadrat.Core/ViewModels/DashboardViewModel.cs" Line="12" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DashboardLeadrat" expanded="True">
+            <Node name="DashboardLeadrat.Core" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="DashboardViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DashboardLeadrat.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="DashboardLeadrat.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="DashboardLeadrat.UI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="DashboardPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

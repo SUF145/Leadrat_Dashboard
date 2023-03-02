@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfaxVVTEI+Bs5ecmfHMLgwMXyxUDOhV6IFEwxvJrOqujL3Jx2qID3mpqZ2zMHeKqduV84FWzdbbvGJZMF2c7rw==",
+  "success": true,
+  "projectFilePath": "/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.iOS/DashboardLeadrat.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.logging/2.0.0/microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.options/2.0.0/microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/mvvmcross.forms/8.0.2/mvvmcross.forms.8.0.2.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/serilog/2.8.0/serilog.2.8.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/serilog.extensions.logging/3.0.1/serilog.extensions.logging.3.0.1.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/serilog.sinks.xamarin/0.2.0.64/serilog.sinks.xamarin.0.2.0.64.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/system.collections.nongeneric/4.3.0/system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/xamarin.communitytoolkit/2.0.5/xamarin.communitytoolkit.2.0.5.nupkg.sha512",
+    "/Users/himanshukumar/.nuget/packages/xamarin.forms/5.0.0.2125/xamarin.forms.5.0.0.2125.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2125. Reference the package directly from the project to select a different version. \n DashboardLeadrat.iOS -> Xamarin.CommunityToolkit 2.0.5 -> Xamarin.Forms (>= 5.0.0.2291) \n DashboardLeadrat.iOS -> Xamarin.Forms (>= 5.0.0.2125)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2545 to 5.0.0.2125. Reference the package directly from the project to select a different version. \n DashboardLeadrat.iOS -> DashboardLeadrat.UI -> Xamarin.Forms (>= 5.0.0.2545) \n DashboardLeadrat.iOS -> Xamarin.Forms (>= 5.0.0.2125)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

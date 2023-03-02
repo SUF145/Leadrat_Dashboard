@@ -1,0 +1,9 @@
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/bin/Debug/netstandard2.0/DashboardLeadrat.Core.deps.json
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/bin/Debug/netstandard2.0/DashboardLeadrat.Core.dll
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/bin/Debug/netstandard2.0/DashboardLeadrat.Core.pdb
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/obj/Debug/netstandard2.0/DashboardLeadrat.Core.AssemblyInfoInputs.cache
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/obj/Debug/netstandard2.0/DashboardLeadrat.Core.AssemblyInfo.cs
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/obj/Debug/netstandard2.0/DashboardLeadrat.Core.csproj.CoreCompileInputs.cache
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/obj/Debug/netstandard2.0/DashboardLeadrat.Core.dll
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/obj/Debug/netstandard2.0/DashboardLeadrat.Core.pdb
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.Core/obj/Debug/netstandard2.0/DashboardLeadrat.Core.csproj.AssemblyReference.cache

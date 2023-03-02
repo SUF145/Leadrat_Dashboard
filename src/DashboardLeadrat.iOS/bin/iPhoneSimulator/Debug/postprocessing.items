@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="DashboardLeadrat.iOS.app/DashboardLeadrat.iOS">
+      <BCSymbolMapName>DashboardLeadrat.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>DashboardLeadrat.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>DashboardLeadrat.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

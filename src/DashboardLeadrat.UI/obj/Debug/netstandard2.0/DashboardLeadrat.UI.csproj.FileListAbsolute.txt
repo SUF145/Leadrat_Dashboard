@@ -1,0 +1,17 @@
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/bin/Debug/netstandard2.0/DashboardLeadrat.UI.deps.json
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/bin/Debug/netstandard2.0/DashboardLeadrat.UI.dll
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/bin/Debug/netstandard2.0/DashboardLeadrat.UI.pdb
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/bin/Debug/netstandard2.0/DashboardLeadrat.Core.dll
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/bin/Debug/netstandard2.0/DashboardLeadrat.Core.pdb
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.csproj.AssemblyReference.cache
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/Pages/DashboardPage.xaml.g.cs
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/Pages/HomePage.xaml.g.cs
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/Resources/Colors.xaml.g.cs
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.AssemblyInfoInputs.cache
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.AssemblyInfo.cs
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.csproj.CoreCompileInputs.cache
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.csproj.CopyComplete
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.dll
+/Users/himanshukumar/Desktop/DashboardLeadrat/src/DashboardLeadrat.UI/obj/Debug/netstandard2.0/DashboardLeadrat.UI.pdb
